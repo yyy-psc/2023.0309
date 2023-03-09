@@ -2,7 +2,7 @@
 
 服务器看显卡：
 watch -n 0.5 nvidia-smi  : 0.5s刷新一次显卡
-![]https://github.com/yyy-psc/2023.0309/blob/main/photos/1.png
+！[]https://github.com/yyy-psc/2023.0309/blob/main/photos/1.png
 nvidia-smi  :刷新显卡
 kill -9 （PID）：杀死显卡
 G:\桌面\代码和服务器笔记\photos\2
